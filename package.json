@@ -10,17 +10,15 @@
   },
   "author": "Hugh Kennedy <hughskennedy@gmail.com> (http://hughsk.io/)",
   "dependencies": {
-    "astw": "^1.2.0",
-    "escodegen": "^1.3.3",
-    "esprima": "^1.2.2",
+    "beefy": "^2.1.8",
+    "browserify": "^16.2.2",
     "mapbox-glsl-optimizer": "aras-p/glsl-optimizer#21b98a9",
-    "through2": "^0.5.1"
   },
   "devDependencies": {
     "a-big-triangle": "0.0.0",
+    "gl-context": "^0.1.0",
     "gl-texture2d": "^1.0.1",
     "glsl-dither": "^1.0.0",
-    "gl-context": "^0.1.0",
     "glslify": "^1.4.0",
     "lena": "^1.0.0"
   },
